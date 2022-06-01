@@ -48,10 +48,8 @@ class _GraphFormState extends State<GraphForm> {
 
   var client = InfluxDBClient(
       url: 'http://europe-west1-1.gcp.cloud2.influxdata.com',
-      //username: 'ginzazaid@hotmail.com',
-      //password: 'Admin1234!',
       token: 'R9ZW4DS1bxxIsYTzs0eChj9neAQmbEE6Ij7Rg3x_sH6J-xC4Z3M1cq17Wk0U00dMiwoYpdMmF96U01cLYUP0vA==',
-      org:  "ginzazaid@hotmail.com",
+      org:  "name@hotmail.com",
       bucket: "SmartAq",
       debug: true);
 
