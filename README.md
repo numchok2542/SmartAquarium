@@ -1,10 +1,12 @@
-# newsmartaquarium
+# Smart aquarium
 
-A new Flutter project.
+The project has use the flutter and python as main language for developments
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+To the hardware part we using the python
+Using the MQTT for the main communicate between fish tank and mobile app
 
 A few resources to get you started if this is your first Flutter project:
 
