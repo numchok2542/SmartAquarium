@@ -27,7 +27,7 @@ token = "R9ZW4DS1bxxIsYTzs0eChj9neAQmbEE6Ij7Rg3x_sH6J-xC4Z3M1cq17Wk0U00dMiwoYpdM
 #bucket = "SmartAq"
 # You can generate an API token from the "API Tokens Tab" in the UI
 #token = os.getenv("INFLUX_TOKEN")
-org = "ginzazaid@hotmail.com"
+org = "@hotmail.com"
 bucket = "SmartAq"
 
 # Infinite loop of fake data sent to the broker
